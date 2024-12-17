@@ -1,0 +1,12 @@
+**/LICENSE.txt
+.idea
+terraform/.*
+terraform/graph.dot
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+layer
+rds.json
+Regulacao_Cursos.csv
+code/code.zio
+notebook/.venv
+.req
